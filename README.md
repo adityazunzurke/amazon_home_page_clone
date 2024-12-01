@@ -1,2 +1,2 @@
 # amazon_home_page_clone
-In this project we can make a simple amazon home page clone using html, css, bootstrap and javscript.
+In this project contains a simple clone of the Amazon home page, designed for educational and portfolio purposes. The project demonstrates basic front-end development skills using HTML, CSS, Bootstrap and JavaScript.
